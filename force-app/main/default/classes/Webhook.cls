@@ -7,5 +7,4 @@ global with sharing class Webhook {
             RestResponse response = RestContext.response;
         
     }
-
 }
