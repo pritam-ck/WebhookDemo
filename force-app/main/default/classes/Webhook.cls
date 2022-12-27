@@ -1,5 +1,5 @@
 @RestResource(urlMapping='/webhook/pushDetails/*')
-global with sharing class Webhook {
+global with sharing class Webhook{
     @HttpPost
     global static void getNotification(){
         
